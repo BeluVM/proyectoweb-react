@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/proyectoweb-react/static/css/main.b1d7ec7b.css",
+    "main.js": "/proyectoweb-react/static/js/main.477333e1.js",
+    "static/js/787.227b7bd9.chunk.js": "/proyectoweb-react/static/js/787.227b7bd9.chunk.js",
+    "static/media/peseb2.jpg": "/proyectoweb-react/static/media/peseb2.f810e4bc261fafc03e89.jpg",
+    "static/media/peseb3.jpg": "/proyectoweb-react/static/media/peseb3.1613e1df505f8ce302fe.jpg",
+    "static/media/b2.jpg": "/proyectoweb-react/static/media/b2.8ee515e973cd358deee4.jpg",
+    "static/media/x3.jpg": "/proyectoweb-react/static/media/x3.b1c70d083a5a5d40fa1f.jpg",
+    "static/media/x2.jpeg": "/proyectoweb-react/static/media/x2.821a0fed2ed9325deaa7.jpeg",
+    "static/media/ccc1.jpg": "/proyectoweb-react/static/media/ccc1.6fef5584127a68ededde.jpg",
+    "static/media/t4.jpg": "/proyectoweb-react/static/media/t4.84e203dfbf503f10d103.jpg",
+    "static/media/bb1.jpg": "/proyectoweb-react/static/media/bb1.7319918a996b71df920f.jpg",
+    "static/media/f3.jpg": "/proyectoweb-react/static/media/f3.4245e551d66ef0adf781.jpg",
+    "static/media/f1.jpg": "/proyectoweb-react/static/media/f1.297f4f633078f4ec274b.jpg",
+    "static/media/f2.jpg": "/proyectoweb-react/static/media/f2.db15fbe55ff3258d29a4.jpg",
+    "static/media/imagen1.webp": "/proyectoweb-react/static/media/imagen1.27fcfac45cdbae1f0897.webp",
+    "static/media/t1.jpeg": "/proyectoweb-react/static/media/t1.cbcca89e7582cfecb8e6.jpeg",
+    "static/media/ccc2.jpg": "/proyectoweb-react/static/media/ccc2.9a1bb12aec51fb2240cb.jpg",
+    "static/media/t6.webp": "/proyectoweb-react/static/media/t6.0b58859588da9fd60004.webp",
+    "static/media/t9.jpg": "/proyectoweb-react/static/media/t9.df18d594c515eaa371c5.jpg",
+    "static/media/t5.webp": "/proyectoweb-react/static/media/t5.d2f1da40c730108fc11e.webp",
+    "index.html": "/proyectoweb-react/index.html",
+    "main.b1d7ec7b.css.map": "/proyectoweb-react/static/css/main.b1d7ec7b.css.map",
+    "main.477333e1.js.map": "/proyectoweb-react/static/js/main.477333e1.js.map",
+    "787.227b7bd9.chunk.js.map": "/proyectoweb-react/static/js/787.227b7bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.477333e1.js"
+  ]
+}
